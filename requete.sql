@@ -1,0 +1,1 @@
+/** Voici toutes les requetes sql a mettre dans xampp afin de posséder toutes les fonctionnalitées du projet. **/
